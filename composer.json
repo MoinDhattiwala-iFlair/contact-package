@@ -15,5 +15,12 @@
         "psr-4": {
             "MoinDhattiwala\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "MoinDhattiwala\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
