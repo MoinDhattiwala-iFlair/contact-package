@@ -1,0 +1,19 @@
+{
+    "name": "moindhattiwala/contact",
+    "description": "This will sent email to admin and save details in database.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Moin Dhattiwala",
+            "email": "moin.dhattiwala@iflair.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MoinDhattiwala\\Contact\\": "src/"
+        }
+    }
+}
